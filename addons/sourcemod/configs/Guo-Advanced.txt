@@ -1,0 +1,48 @@
+"Advertisements"
+{
+	"1"
+	{
+		"type"	"S"
+		"text"	"{TEAM}[{DEFAULT}锅服{TEAM}] {DEFAULT}可以输入{TEAM}!vote{DEFAULT}或者{TEAM}!votekick{DEFAULT}进行投票"
+	}
+	"2"
+	{
+		"type"	"S"
+		"text"	"{TEAM}[{DEFAULT}锅服{TEAM}] {DEFAULT}输入{TEAM}!match{DEFAULT}或者{TEAM}!rmatch{DEFAULT}进行更换模式"
+	}
+	"3"
+	{
+		"type"	"S"
+		"text"	"{TEAM}[{DEFAULT}锅服{TEAM}] {DEFAULT}与其{TEAM}提高{DEFAULT}自己，不如{TEAM}诋毁{DEFAULT}队友"
+	}
+	"4"
+	{
+		"type"	"S"
+		"text"	"{TEAM}[{DEFAULT}锅服{TEAM}] {DEFAULT}不会{TEAM}黑枪{DEFAULT}你玩什么求生"
+	}
+	"5"
+	{
+		"type"	"S"
+		"text"	"{TEAM}[{DEFAULT}锅服{TEAM}] {DEFAULT}生还按{TEAM}Shift{DEFAULT}+{TEAM}E{DEFAULT}，可以在准心处生成{TEAM}标记"
+	}
+	"6"
+	{
+		"type"	"S"
+		"text"	"{TEAM}[{DEFAULT}锅服{TEAM}] {DEFAULT}玩锅服听到{TEAM}Hunter{DEFAULT}不抬头的，肯定都是假的铁锅粉丝"
+	}
+	"7"
+	{
+		"type"	"S"
+		"text"	"{TEAM}[{DEFAULT}锅服{TEAM}] {DEFAULT}AI克没有控制权，血型不好建议直接压，{TEAM}跟他爆了"
+	}
+	"8"
+	{
+		"type"	"S"
+		"text"	"{TEAM}[{DEFAULT}锅服{TEAM}] {DEFAULT}人生四大喜事: {TEAM}持枪队友情{DEFAULT}，{TEAM}妹前持药丸{DEFAULT}，{TEAM}终点门前克{DEFAULT}，{TEAM}悬崖挂腊肠"
+	}
+	"9"
+	{
+		"type"	"S"
+		"text"	"{TEAM}[{DEFAULT}锅服{TEAM}] {DEFAULT}有时候不逼自己一把, 你都不知道自己有多{TEAM}下饭"
+	}
+}

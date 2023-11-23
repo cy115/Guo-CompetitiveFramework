@@ -1,0 +1,37 @@
+"Phrases"
+{
+	"PrintRoundTime"
+	{
+		"#format"	"{1:d},{2:d},{3:d},{4:.2f}"
+		"en"		"[{olive}!{default}] Round {orange}{1}{default}, First half: {orange}{2} cans {default}in {orange}{3}:{4}"
+		"chi"		"[{olive}!{default}] 第{orange}{1}{default}局, 上半轮: {orange}{2}桶 {default}用时: {orange}{3}:{4}"
+	}
+
+	"PrintRoundTimeInHalf"
+	{
+		"#format"	"{1:d},{2:d},{3:d},{4:.2f}"
+		"en"		"[{olive}!{default}] Round {orange}{1}{default}, Second half: {orange}{2} cans {default}in {orange}{3}:{4}"
+		"chi"		"[{olive}!{default}] 第{orange}{1}{default}局, 下半轮: {orange}{2}桶 {default}已用时: {orange}{3}:{4}"
+	}
+
+	"PrintRoundEndTime"
+	{
+		"#format"	"{1:d},{2:d},{3:d},{4:.2f}"
+		"en"		"[{olive}Round Summary{default}] Round {orange}{1}{default}, First half: {orange}{2} cans {default}in {orange}{3}:{4}"
+		"chi"		"[{olive}轮回结算{default}] 第{orange}{1}{default}局, 上半轮: {orange}{2}桶 {default}用时: {orange}{3}:{4}"
+	}
+
+	"PrintRoundEndTimeInHalf"
+	{
+		"#format"	"{1:d},{2:d},{3:d},{4:.2f}"
+		"en"		"[{olive}Round Summary{default}] Round {orange}{1}{default}, Second half: {orange}{2} cans {default}in {orange}{3}:{4}"
+		"chi"		"[{olive}轮回结算{default}] 第{orange}{1}{default}局, 下半轮: {orange}{2}桶 {default}用时: {orange}{3}:{4}"
+	}
+
+	"RoundEndEarly"
+	{
+		"#format"	"{1:d},{2:d},{3:d},{4:.2f}"
+		"en"		"[{olive}Quick End{default}] {blue}Round Ended Early: Win condition decided on time."
+		"chi"		"[{olive}提前结束{default}] {blue}该回合提前结束:胜利条件已由时间决定"
+	}
+}

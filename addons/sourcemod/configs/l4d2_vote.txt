@@ -1,0 +1,761 @@
+"VoteItems"
+{
+	"投票回血 (votehp) & 更改全体语音 (alltalk)"
+	{
+		"sm_hp"
+		{
+			"message" "回复满血 (votehp)"
+		}
+		"sm_fs"
+		{
+			"message" "强制开始游戏 (force_start)"
+		}
+		"sv_alltalk 1"
+		{
+			"message" "打开全体语音 (turn on)"
+		}
+		"sv_alltalk 0"
+		{
+			"message" "关闭全体语音 (turn off)"
+		}
+	}
+
+	"投票踢人&强制旁观 (votekick & spec)"
+	{
+		"sm_votekick"
+		{
+			"message" "投票踢人 (votekick)"
+		}
+		"sm_votespec"
+		{
+			"message" "投票旁观 (votespec)"
+		}
+	}
+
+	"增减旁观位置 (toggle slots)"
+	{
+		"slots+4"
+		{
+			"message" "增加4个 (+4 slots)"
+		}
+		"slots-4"
+		{
+			"message" "减少4个 (-4 slots)"
+		}
+		"slotsfull"
+		{
+			"message" "增加至最多 (add full slots)"
+		}
+		"slotsplayer"
+		{
+			"message" "减去所有空余位置 (minu spare slots)"
+		}
+	}
+
+	"特感技能开关 (SI_bhop)"
+	{
+		"sm_cvar ai_BoomerBhop 1"
+		{
+			"message" "胖子连跳开"
+		}
+		"sm_cvar ai_BoomerBhop 0"
+		{
+			"message" "胖子连跳关"
+		}
+		"sm_cvar ai_ChargerBhop 1"
+		{
+			"message" "牛牛连跳开"
+		}
+		"sm_cvar ai_ChargerBhop 0"
+		{
+			"message" "牛牛连跳关"
+		}
+		"sm_cvar ai_Tank_Bhop 1"
+		{
+			"message" "坦克连跳开"
+		}
+		"sm_cvar ai_Tank_Bhop 0"
+		{
+			"message" "坦克连跳关"
+		}
+		"sm_cvar l4d2_block_jump_rock 0"
+		{
+			"message" "启用跳砖"
+		}
+		"sm_cvar l4d2_block_jump_rock 1"
+		{
+			"message" "禁用跳砖"
+		}
+	}
+
+	"特感数量控制 (inf_limit)"
+	{
+		"exec vote/inf_limit/1t.cfg"
+		{
+			"message" "1特"
+		}
+		"exec vote/inf_limit/2t.cfg"
+		{
+			"message" "2特"
+		}
+		"exec vote/inf_limit/3t.cfg"
+		{
+			"message" "3特"
+		}
+		"exec vote/inf_limit/4t.cfg"
+		{
+			"message" "4特"
+		}
+		"exec vote/inf_limit/5t.cfg"
+		{
+			"message" "5特"
+		}
+		"exec vote/inf_limit/6t.cfg"
+		{
+			"message" "6特"
+		}
+		"exec vote/inf_limit/7t.cfg"
+		{
+			"message" "7特"
+		}
+		"exec vote/inf_limit/8t.cfg"
+		{
+			"message" "8特"
+		}
+	}
+
+	"特感刷新控制 (inf_spawn_duration)"
+	{
+		"exec vote/inf_spawn_duration/0s.cfg"
+		{
+			"message" "0秒"
+		}
+		"exec vote/inf_spawn_duration/1s.cfg"
+		{
+			"message" "1秒"
+		}
+		"exec vote/inf_spawn_duration/2s.cfg"
+		{
+			"message" "2秒"
+		}
+		"exec vote/inf_spawn_duration/3s.cfg"
+		{
+			"message" "3秒"
+		}
+		"exec vote/inf_spawn_duration/4s.cfg"
+		{
+			"message" "4秒"
+		}
+		"exec vote/inf_spawn_duration/5s.cfg"
+		{
+			"message" "5秒"
+		}
+		"exec vote/inf_spawn_duration/6s.cfg"
+		{
+			"message" "6秒"
+		}
+		"exec vote/inf_spawn_duration/7s.cfg"
+		{
+			"message" "7秒"
+		}
+		"exec vote/inf_spawn_duration/8s.cfg"
+		{
+			"message" "8秒"
+		}
+		"exec vote/inf_spawn_duration/9s.cfg"
+		{
+			"message" "9秒"
+		}
+		"exec vote/inf_spawn_duration/10s.cfg"
+		{
+			"message" "10秒"
+		}
+		"exec vote/inf_spawn_duration/11s.cfg"
+		{
+			"message" "11秒"
+		}
+		"exec vote/inf_spawn_duration/12s.cfg"
+		{
+			"message" "12秒"
+		}
+		"exec vote/inf_spawn_duration/13s.cfg"
+		{
+			"message" "13秒"
+		}
+		"exec vote/inf_spawn_duration/14s.cfg"
+		{
+			"message" "14秒"
+		}
+		"exec vote/inf_spawn_duration/15s.cfg"
+		{
+			"message" "15秒"
+		}
+		"exec vote/inf_spawn_duration/16s.cfg"
+		{
+			"message" "16秒"
+		}
+	}
+
+	"生还选项 (survivors choice)"
+	{
+		"sm_cvar l4d_lasertag_enable 1"
+		{
+			"message" "弹道-开"
+		}
+		"sm_cvar l4d_lasertag_enable 0"
+		{
+			"message" "弹道-关"
+		}
+		"sm_cvar l4d2_hs_sound_enable 1"
+		{
+			"message" "爆头音效-开"
+		}
+		"sm_cvar l4d2_hs_sound_enable 0"
+		{
+			"message" "爆头音效-关"
+		}
+		"sm_cvar sm_hitsound_enable 1"
+		{
+			"message" "命中反馈-开"
+		}
+		"sm_cvar sm_hitsound_enable 0"
+		{
+			"message" "命中反馈-关"
+		}
+		"exec vote/glow_on.cfg"
+		{
+			"message" "物品发光-开"
+		}
+		"exec vote/glow_off.cfg"
+		{
+			"message" "物品发光-关"
+		}
+		"exec vote/reverse_ff_on.cfg"
+		{
+			"message" "反伤-开"
+		}
+		"exec vote/reverse_ff_off.cfg"
+		{
+			"message" "反伤-关"
+		}
+	}
+
+	"难度选项 (difficulty)"
+	{
+		"sm_cvar sv_infinite_ammo 1"
+		{
+			"message" "开启无限子弹"
+		}
+		"sm_cvar sv_infinite_ammo 0"
+		{
+			"message" "关闭无限子弹"
+		}
+		"exec vote/sb_enhanced_on.cfg"
+		{
+			"message" "开启加智AI"
+		}
+		"exec vote/sb_enhanced_off.cfg"
+		{
+			"message" "关闭加智AI"
+		}
+	}
+
+	"官方地图 (official maps)"
+	{
+	    	"sm_map c1m1_hotel"
+		{
+			"message" "C1-死亡中心"
+		}
+		"sm_map c2m1_highway"
+		{
+			"message" "C2-黑色狂欢节"
+		}
+		"sm_map c3m1_plankcountry"
+		{
+			"message" "C3-沼泽激战"
+		}
+		"sm_map c4m1_milltown_a"
+		{
+			"message" "C4-暴风骤雨"
+		}
+		"sm_map c5m1_waterfront"
+		{
+			"message" "C5-教区"
+		}
+		"sm_map c6m1_riverbank"
+		{
+			"message" "C6|C7-消逝|牺牲(仅对抗)"
+		}
+		"sm_map c7m1_docks"
+		{
+			"message" "C7-牺牲"
+		}
+		"sm_map c8m1_apartment"
+		{
+			"message" "C8-毫不留情"
+		}
+		"sm_map c9m1_alleys"
+		{
+			"message" "C9|C14-坠机险途|临死一搏(仅对抗)"
+		}
+		"sm_map c10m1_caves"
+		{
+			"message" "C10-死亡丧钟"
+		}
+		"sm_map c11m1_greenhouse"
+		{
+			"message" "C11-静寂时分"
+		}
+		"sm_map c12m1_hilltop"
+		{
+			"message" "C12-血腥收获"
+		}
+		"sm_map c13m1_alpinecreek"
+		{
+			"message" "C13-刺骨寒溪"
+		}
+		"sm_map c14m1_junkyard"
+		{
+			"message" "C14-临死一搏"
+		}
+	}
+
+	"比赛三方 (unofficial versus)"
+	{
+		"sm_map dkr_m1_motel"
+		{
+			"message" "Dark Carnival: Remix-C2：重制"
+		}
+		"sm_map dprm1_milltown_a"
+		{
+			"message" "Hard Rain DownPour-C4：暴雨"
+		}
+		"sm_map PR1_Waterfront_F"
+		{
+			"message" "The Perish OverGrowth-C5：蔓延"
+		}
+		"sm_map CCR1_alleys"
+		{
+			"message" "Crash Course:ReRouted-C9：改航"
+		}
+		"sm_map cdta_01detour"
+		{
+			"message" "Detour Ahead-迂回前进"
+		}
+		"sm_map l4d2_diescraper1_apartment_361"
+		{
+			"message" "Diescraper-喋血蜃楼"
+		}
+		"sm_map hf01_theforest"
+		{
+			"message" "Haunted Forest-颤栗森林"
+		}
+		"sm_map cwm1_intro"
+		{
+			"message" "Carried Off-绝境逢生"
+		}
+		"sm_map l4d2_stadium1_apartment"
+		{
+			"message" "Suicide Blitz 2-闪电突袭2"
+		}
+		"sm_map l4d_dbd2dc_anna_is_gone"
+		{
+			"message" "Dead Before Dawn DC-活死人黎明"
+		}
+		"sm_map l4d_ihm01_forest"
+		{
+			"message" "I Hate Mountains 2-我恨山2"
+		}
+		"sm_map x1m1_cliffs"
+		{
+			"message" "OpenRoad-绝命公路"
+		}
+		"sm_map l4d2_city17_01"
+		{
+			"message" "City 17-城市17"
+		}
+		"sm_map uz_crash"
+		{
+			"message" "The Undead Zone-亡灵区"
+		}
+		"sm_map uf1_boulevard"
+		{
+			"message" "Urban Flight-城市航班"
+		}
+		"sm_map l4d2_daybreak01_hotel"
+		{
+			"message" "Day Break-黎明"
+		}
+	}
+
+	"官图重置 (official_remake)"
+	{
+		"sm_map l4d1m_hospital01_apartment"
+		{
+			"message" "L4D1M: No Mercy-毫不留情 (vs sup)"
+		}
+		"sm_map l4d1m_garage01_alleys"
+		{
+			"message" "L4D1M: Crash Course-坠机险途"
+		}
+		"sm_map l4d1m_smalltown01_caves"
+		{
+			"message" "L4D1M: Death Toll-死亡丧钟 (vs sup)"
+		}
+		"sm_map l4d1m_airport01_greenhouse"
+		{
+			"message" "L4D1M: Dead Air-寂静时分"
+		}
+	}
+
+	"其他三方 (unofficial_others-a)"
+	{
+		"sm_map jsarena201_town"
+		{
+			"message" "Arena of the dead 2-死亡竞技场2"
+		}
+		"sm_map l4d_zero01_south"
+		{
+			"message" "absolutezero-绝对零度"
+		}
+	}
+	"其他三方 (unofficial_others-b)"
+	{
+		"sm_map l4d2_bts01_forest"
+		{
+			"message" "Back to School-返校"
+		}
+		"sm_map bdp_bunker01"
+		{
+			"message" "burieddeep-深埋"
+		}
+		"sm_map bhm1_outskirts"
+		{
+			"message" "behind-别被丢下"
+		}
+		"sm_map bloodtracks_01"
+		{
+			"message" "BloodTracks-血之轨迹"
+		}
+	}
+	"其他三方 (unofficial_others-c)"
+	{
+		"sm_map cotd01_apartments_redux"
+		{
+			"message" "City of the Dead Redux-死亡之城"
+		}
+		"sm_map bsas2_m1_barrios"
+		{
+			"message" "Cambalache 2 - Buenos Aires-布宜诺斯艾利斯"
+		}
+		"sm_map Alejki"
+		{
+			"message" "Crash Course APOCALYPSE New 2017-坠机险途启示录"
+		}
+	}
+	"其他三方 (unofficial_others-d)"
+	{
+		"sm_map dw_woods"
+		{
+			"message" "darkwood_extended-阴暗森林"
+		}
+		"sm_map bdp_bunker01"
+		{
+			"message" "burieddeep-深埋"
+		}
+		"sm_map damitdc1"
+		{
+			"message" "damitdc-大坝2"
+		}
+		"sm_map ddg1_tower_v2_1"
+		{
+			"message" "drop dead gorges-暴毙峡谷"
+		}
+		"sm_map dm1_suburbs"
+		{
+			"message" "DevilMountain-魔鬼山"
+		}
+		"sm_map DCR1_meetup_F"
+		{
+			"message" "Dead Center: ReConstructed-C1改"
+		}
+		"sm_map Tunel"
+		{
+			"message" "Death Toll APOCALYPSE-死亡丧钟启示录"
+		}
+		"sm_map death_sentence_1"
+		{
+			"message" "death Sentence-死刑"
+		}
+		"sm_map de01_sewers"
+		{
+			"message" "Dead Echo 2-死亡回声"
+		}
+	}
+	"其他三方 (unofficial_others-e)"
+	{
+		"sm_map ec01_outlets"
+		{
+			"message" "Energy Crisis-能源危机"
+		}
+		"sm_map bdp_bunker01"
+		{
+			"message" "burieddeep-深埋"
+		}
+	}
+	"其他三方 (unofficial_others-f)"
+	{
+		"sm_map l4d2_bts01_forest"
+		{
+			"message" "Back to School-返校"
+		}
+		"sm_map bdp_bunker01"
+		{
+			"message" "burieddeep-深埋"
+		}
+	}
+	"其他三方 (unofficial_others-g)"
+	{
+		"sm_map l4d_grave_city"
+		{
+			"message" "graveoutdoors-户外孤坟"
+		}
+		"sm_map bdp_bunker01"
+		{
+			"message" "burieddeep-深埋"
+		}
+	}
+	"其他三方 (unofficial_others-h)"
+	{
+		"sm_map l4d2_bts01_forest"
+		{
+			"message" "Back to School-返校"
+		}
+		"sm_map bdp_bunker01"
+		{
+			"message" "burieddeep-深埋"
+		}
+	}
+	"其他三方 (unofficial_others-i)"
+	{
+		"sm_map l4d2_bts01_forest"
+		{
+			"message" "Back to School-返校"
+		}
+		"sm_map bdp_bunker01"
+		{
+			"message" "burieddeep-深埋"
+		}
+	}
+	"其他三方 (unofficial_others-j)"
+	{
+		"sm_map splash1"
+		{
+			"message" "Journey to Splash Mountain-飞溅山之旅"
+		}
+		"sm_map bdp_bunker01"
+		{
+			"message" "burieddeep-深埋"
+		}
+	}
+	"其他三方 (unofficial_others-k)"
+	{
+		"sm_map l4d2_bts01_forest"
+		{
+			"message" "Back to School-返校"
+		}
+		"sm_map bdp_bunker01"
+		{
+			"message" "burieddeep-深埋"
+		}
+	}
+	"其他三方 (unofficial_others-l)"
+	{
+		"sm_map leftinprypiatc1mf"
+		{
+			"message" "leftinprypiat-逃离普里皮亚季"
+		}
+		"sm_map ld1"
+		{
+			"message" "Lockdown: Chapter Two-封锁2"
+		}
+	}
+	"其他三方 (unofficial_others-m)"
+	{
+		"sm_map l4d2_bts01_forest"
+		{
+			"message" "Back to School-返校"
+		}
+		"sm_map bdp_bunker01"
+		{
+			"message" "burieddeep-深埋"
+		}
+	}
+	"其他三方 (unofficial_others-n)"
+	{
+		"sm_map nt01_mansion"
+		{
+			"message" "Night Terror-夜惊"
+		}
+		"sm_map mayuns_1"
+		{
+			"message" "NoContiniuity-无连续性"
+		}
+		"sm_map l4d_almacen001_almacen"
+		{
+			"message" "No More Industries-工业不再"
+		}
+		"sm_map Ulice"
+		{
+			"message" "No Mercy APOCALYPSE New Version 2017-毫不留情启示录"
+		}
+	}
+	"其他三方 (unofficial_others-o)"
+	{
+		"sm_map l4d2_bts01_forest"
+		{
+			"message" "Back to School-返校"
+		}
+		"sm_map bdp_bunker01"
+		{
+			"message" "burieddeep-深埋"
+		}
+	}
+	"其他三方 (unofficial_others-p)"
+	{
+		"sm_map l4d2_bts01_forest"
+		{
+			"message" "Back to School-返校"
+		}
+		"sm_map bdp_bunker01"
+		{
+			"message" "burieddeep-深埋"
+		}
+	}
+	"其他三方 (unofficial_others-q)"
+	{
+		"sm_map l4d2_bts01_forest"
+		{
+			"message" "Back to School-返校"
+		}
+		"sm_map bdp_bunker01"
+		{
+			"message" "burieddeep-深埋"
+		}
+	}
+	"其他三方 (unofficial_others-r)"
+	{
+		"sm_map redemptionII-deadstop"
+		{
+			"message" "RedemptionII-救赎2"
+		}
+		"sm_map bdp_bunker01"
+		{
+			"message" "burieddeep-深埋"
+		}
+	}
+	"其他三方 (unofficial_others-s)"
+	{
+		"sm_map sd01_airfield"
+		{
+			"message" "snowden-雪巢"
+		}
+		"sm_map bdp_bunker01"
+		{
+			"message" "burieddeep-深埋"
+		}
+	}
+	"其他三方 (unofficial_others-t)"
+	{
+		"sm_map l4d_tbm_1"
+		{
+			"message" "The Bloody Moors-血腥荒野"
+		}
+		"sm_map dam1_bridge"
+		{
+			"message" "The Dayafter-后天"
+		}
+		"sm_map 2ee_01"
+		{
+			"message" "2evileyes-邪恶双眸"
+		}
+		"sm_map castle_map_01"
+		{
+			"message" "TheCurseOfLazarCastle-拉扎尔城堡的诅咒"
+		}
+		"sm_map the_hive_m1"
+		{
+			"message" "The Hive-蜂巢"
+		}
+		"sm_map eu01_residential_b16"
+		{
+			"message" "Tour of Terror-恐怖之旅"
+		}
+	}
+	"其他三方 (unofficial_others-u)"
+	{
+		"sm_map l4d2_bts01_forest"
+		{
+			"message" "Back to School-返校"
+		}
+		"sm_map bdp_bunker01"
+		{
+			"message" "burieddeep-深埋"
+		}
+	}
+	"其他三方 (unofficial_others-v)"
+	{
+		"sm_map l4d2_bts01_forest"
+		{
+			"message" "Back to School-返校"
+		}
+		"sm_map bdp_bunker01"
+		{
+			"message" "burieddeep-深埋"
+		}
+	}
+	"其他三方 (unofficial_others-w)"
+	{
+		"sm_map srocchurch"
+		{
+			"message" "warcelona-巴塞罗那"
+		}
+		"sm_map wfp1_track"
+		{
+			"message" "WhiteForest-白森林"
+		}
+	}
+	"其他三方 (unofficial_others-x)"
+	{
+		"sm_map l4d2_bts01_forest"
+		{
+			"message" "Back to School-返校"
+		}
+		"sm_map bdp_bunker01"
+		{
+			"message" "burieddeep-深埋"
+		}
+	}
+	"其他三方 (unofficial_others-y)"
+	{
+		"sm_map l4d_yama_1"
+		{
+			"message" "Yama-摩耶山"
+		}
+		"sm_map bdp_bunker01"
+		{
+			"message" "burieddeep-深埋"
+		}
+	}
+	"其他三方 (unofficial_others-z)"
+	{
+		"sm_map zc_m1"
+		{
+			"message" "Zengchengone-广州增城"
+		}
+		"sm_map appartments"
+		{
+			"message" "Z-PTZ-Z-PTZ"
+		}
+	}
+}

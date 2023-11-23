@@ -1,0 +1,36 @@
+@charset "utf-8";
+/*主页UI*/
+ul li{
+    position: relative;
+    top: px;
+    margin-right: 50px;
+    color: #000000;
+	font-size: 50px;
+}
+/*水平线*/
+ .hr1{
+  border: 0;
+  padding: 3px;
+  background: repeating-linear-gradient(
+    135deg,
+    #a2a9b6 0px,
+    #a2a9b6 1px,
+    transparent 1px,
+    transparent 6px
+  );
+}
+/*指令*/
+.f1{
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	color: lawngreen;
+}
+/*指令说明*/
+.f2{
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	color: black;
+}
+/*主页*/
+.f3{
+	color: greenyellow;
+	font-size: 50px;
+}

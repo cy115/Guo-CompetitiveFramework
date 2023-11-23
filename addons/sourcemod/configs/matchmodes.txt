@@ -1,0 +1,221 @@
+"MatchModes"
+{
+	"ZoneMod 配置"
+	{
+		"zonemod"
+		{
+			"name" "ZoneMod 2.8.7"
+		}
+		"zonemod4K"
+		{
+			"name" "zonemod-4K"
+		}
+		"zoneretro"
+		{
+			"name" "ZoneMod Retro 2.8.7"
+		}
+		"zm3v3"
+		{
+			"name" "3v3 ZoneMod"
+		}
+		"zm2v2"
+		{
+			"name" "2v2 ZoneMod"
+		}
+		"zm1v1"
+		{
+			"name" "1v1 ZoneMod"
+		}
+	}
+	"锅-战役 配置"
+	{
+		"Guo-Default"
+		{
+			"name" "锅服普通战役"
+		}
+		"Guo-Advanced"
+		{
+			"name" "锅服Zone药役"
+		}
+	}
+	"锅-训练 配置"
+	{
+		"Guo-HtTrain"
+		{
+			"name" "单人ht训练"
+		}
+		"Guo-Alone"
+		{
+			"name" "单人装X模式"
+		}
+	}
+	"锅-单特 配置"
+	{
+		"Guo-Hunter"
+		{
+			"name" "乱爆Hunter"
+		}
+		"Guo-Charger"
+		{
+			"name" "牛牛大乱斗"
+		}
+		"Guo-Jockey"
+		{
+			"name" "花果山一日游"
+		}
+	}
+	"锅-对抗(真人) 配置"
+	{
+		"Guo-KitVersus"
+		{
+			"name" "锅服包抗模式"
+		}
+		"Guo-SkillVersus"
+		{
+			"name" "锅服技能药抗"
+		}
+		"WitchParty"
+		{
+			"name" "锅服女巫派对"
+		}
+	}
+	"NeoMod 配置"
+	{
+		"neomod"
+		{
+			"name" "NeoMod Tourney 0.4a"
+		}
+	}
+	"NextMod 配置"
+	{
+		"nextmod"
+		{
+			"name" "NextMod 1.0.5"
+		}
+		"nextmod3v3"
+		{
+			"name" "3v3 NextMod"
+		}
+		"nextmod2v2"
+		{
+			"name" "2v2 NextMod"
+		}
+		"nextmod1v1"
+		{
+			"name" "1v1 NextMod"
+		}
+	}
+	"Promod 配置"
+	{
+		"pmelite"
+		{
+			"name" "Promod Elite 1.1"
+		}
+		"deadman"
+		{
+			"name" "Deadman 5.0.3"
+		}
+	}
+	"Acemod Revamped 配置"
+	{
+		"acemodrv"
+		{
+			"name" "Acemod RV 1.3"
+		}
+		"amrv3v3"
+		{
+			"name" "3v3 Acemod RV"
+		}
+		"amrv2v2"
+		{
+			"name" "2v2 Acemod RV"
+		}
+		"amrv1v1"
+		{
+			"name" "1v1 Acemod RV"
+		}
+	}
+	"EQ 配置"
+	{
+		"eq"
+		{
+			"name" "Equilibrium 3.0c"
+		}
+		"eq3v3"
+		{
+			"name" "3v3 EQ"
+		}
+		"eq2v2"
+		{
+			"name" "2v2 EQ"
+		}
+		"eq1v1"
+		{
+			"name" "1v1 EQ"
+		}
+	}
+	"Apex 配置"
+	{
+		"apex"
+		{
+			"name" "Apex 1.1.2"
+		}
+	}
+	"Hunters 配置"
+	{
+		"zonehunters"
+		{
+			"name" "ZoneHunters 2.8.7"
+		}
+		"zh3v3"
+		{
+			"name" "3v3 ZoneHunters"
+		}
+		"zh2v2"
+		{
+			"name" "2v2 ZoneHunters"
+		}
+		"zh1v1"
+		{
+			"name" "1v1 ZoneHunters"
+		}
+	}
+	"Scavogl 配置"
+	{
+		"scavogl"
+		{
+			"name" "Scavogl 2.8.4"
+		}
+		"scav3v3"
+		{
+			"name" "3v3 Scavogl"
+		}
+		"scav2v2"
+		{
+			"name" "2v2 Scavogl"
+		}
+		"scav1v1"
+		{
+			"name" "1v1 Scavogl"
+		}
+	}
+	"Scavogl-Hunter 配置"
+	{
+		"scavhunters"
+		{
+			"name" "Scavogl-Hunter"
+		}
+		"scavh3v3"
+		{
+			"name" "3v3 Scavogl-Hunter"
+		}
+		"scavh2v2"
+		{
+			"name" "2v2 Scavogl-Hunter"
+		}
+		"scavh1v1"
+		{
+			"name" "1v1 Scavogl-Hunter"
+		}
+	}
+}

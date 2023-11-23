@@ -1,0 +1,25 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>锅服每日消息</title>
+<link type="text/css" rel="stylesheet" href="text.css">
+</head>
+<body>
+<ul>
+	  <li><a href="command.html" style="text-decoration: none;"><b class="f3">指令列表</b></a></li><br>
+	  <li><a href="server.html" style="text-decoration: none;"><b class="f3">所有服务器IP直连</b></a></li><br>
+	  <li><a href="http://steamcommunity.com/groups/Guo-115" style="text-decoration: none"><b class="f3">加入服务器组</b></a></li><br>
+	  <li><a href="qqgroup.html" style="text-decoration: none"><b class="f3">加入Q群</b></a></li>
+</ul>
+<script>  
+		 var bodyBgs = [];  
+         bodyBgs[0] = "motd.jpg";  
+         bodyBgs[1] = "motd1.jpg";  
+         bodyBgs[2] = "motd2.jpg";
+         bodyBgs[3] = "motd3.jpg";
+         var randomBgIndex = Math.round( Math.random() * 3);
+         document.write('<style>body{background:url(' + bodyBgs[randomBgIndex] + ') no-repeat 100% 0 fixed;-webkit-background-size: cover;-moz-background-size: cover;-o-background-size: cover;background-size: cover;}</style>');
+    </script>
+</body>
+</html>
