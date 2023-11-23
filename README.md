@@ -2,4 +2,4 @@
 # Guo-CompetitiveFramework
 
 ### 简介/Brief Introduction
-▶ ##### 什么是锅服？ What is Guo-Server?
+▷ 什么是锅服？ What is Guo-Server?
