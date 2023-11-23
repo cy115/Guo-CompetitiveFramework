@@ -21,20 +21,20 @@ It will contain both much needed fixes that are simply unable to be implemented 
 > **Included Matchmodes:**
 > **包含的配置：**
 
-▶ **Zonemod 2.8.7**
-▶ **Zonemod Hunters**
-▶ **Zonemod Retro**
-▶ **Zonemod 4K**
-▶ **NeoMod 0.4a** 
-▶ **NextMod 1.0.5**
-▶ **Promod Elite 1.1**
-▶ **Acemod Revamped 1.2**
-▶ **Equilibrium 3.0c**
-▶ **Apex 1.1.2**
-▶ **WitchParty 1.0**
-▶ **Guomod 1.5**
-▶ **scavogl 2.8.4**
-▶ **scavhunters 2.8.4**
+* ▷**Zonemod 2.8.7**
+* ▷**Zonemod Hunters**
+* ▷**Zonemod Retro**
+* ▷**Zonemod 4K**
+* ▷**NeoMod 0.4a** 
+* ▷**NextMod 1.0.5**
+* ▷**Promod Elite 1.1**
+* ▷**Acemod Revamped 1.2**
+* ▷**Equilibrium 3.0c**
+* ▷**Apex 1.1.2**
+* ▷**WitchParty 1.0**
+* ▷**Guomod 1.5**
+* ▷**scavogl 2.8.4**
+* ▷**scavhunters 2.8.4**
 
 ---
 	
