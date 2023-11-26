@@ -1,0 +1,23 @@
+"Advertisements"
+{
+	"1"
+	{
+		"type"	"S"
+		"text"	"{TEAM}[{DEFAULT}锅服{TEAM}] {DEFAULT}可以输入{TEAM}!vote{DEFAULT}或者{TEAM}!votekick{DEFAULT}进行投票"
+	}
+	"2"
+	{
+		"type"	"S"
+		"text"	"{TEAM}[{DEFAULT}锅服{TEAM}] {DEFAULT}输入{TEAM}!match{DEFAULT}或者{TEAM}!rmatch{DEFAULT}进行更换模式"
+	}
+	"3"
+	{
+		"type"	"S"
+		"text"	"{TEAM}[{DEFAULT}锅服{TEAM}] {DEFAULT}爆HT讲究的就是一个{TEAM}随缘"
+	}
+	"4"
+	{
+		"type"	"S"
+		"text"	"{TEAM}[{DEFAULT}锅服{TEAM}] {DEFAULT}恕我直言, 爆不了{TEAM}10个{DEFAULT}的可以找个厂上了"
+	}
+}

@@ -1,0 +1,38 @@
+"Advertisements"
+{
+	"1"
+	{
+		"type"	"S"
+		"text"	"{TEAM}[{DEFAULT}锅服{TEAM}] {DEFAULT}可以输入{TEAM}!vote{DEFAULT}或者{TEAM}!votekick{DEFAULT}进行投票"
+	}
+	"2"
+	{
+		"type"	"S"
+		"text"	"{TEAM}[{DEFAULT}锅服{TEAM}] {DEFAULT}输入{TEAM}!match{DEFAULT}或者{TEAM}!rmatch{DEFAULT}进行更换模式"
+	}
+	"3"
+	{
+		"type"	"S"
+		"text"	"{TEAM}[{DEFAULT}锅服{TEAM}] {DEFAULT}娱乐模式就权当放松了, 没必要斤斤计较"
+	}
+	"4"
+	{
+		"type"	"S"
+		"text"	"{TEAM}[{DEFAULT}锅服{TEAM}] {DEFAULT}娱乐模式就权当放松了, 没必要斤斤计较"
+	}
+	"5"
+	{
+		"type"	"S"
+		"text"	"{TEAM}[{DEFAULT}锅服{TEAM}] {DEFAULT}娱乐模式就权当放松了, 没必要斤斤计较"
+	}
+	"6"
+	{
+		"type"	"S"
+		"text"	"{TEAM}[{DEFAULT}锅服{TEAM}] {DEFAULT}技能没什么好介绍的, 玩着玩着就会了"
+	}
+	"7"
+	{
+		"type"	"S"
+		"text"	"{TEAM}[{DEFAULT}锅服{TEAM}] {DEFAULT}小输不算输, 小赢就是平"
+	}
+}

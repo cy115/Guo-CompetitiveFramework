@@ -1,0 +1,48 @@
+"Advertisements"
+{
+	"1"
+	{
+		"type"	"S"
+		"text"	"{TEAM}[{DEFAULT}锅服{TEAM}] {DEFAULT}可以输入{TEAM}!vote{DEFAULT}或者{TEAM}!votekick{DEFAULT}进行投票"
+	}
+	"2"
+	{
+		"type"	"S"
+		"text"	"{TEAM}[{DEFAULT}锅服{TEAM}] {DEFAULT}输入{TEAM}!match{DEFAULT}或者{TEAM}!rmatch{DEFAULT}进行更换模式"
+	}
+	"3"
+	{
+		"type"	"S"
+		"text"	"{TEAM}[{DEFAULT}锅服{TEAM}] {DEFAULT}平等游戏, {TEAM}包容他人{DEFAULT}, {TEAM}接纳自己"
+	}
+	"4"
+	{
+		"type"	"S"
+		"text"	"{TEAM}[{DEFAULT}锅服{TEAM}] {DEFAULT}没必要争个高低贵贱, 你对我错, {TEAM}谁都会有失误{DEFAULT}, 不是所有人都天赋异禀"
+	}
+	"5"
+	{
+		"type"	"S"
+		"text"	"{TEAM}[{DEFAULT}锅服{TEAM}] {DEFAULT}与其{TEAM}提高{DEFAULT}自己，不如{TEAM}诋毁{DEFAULT}队友"
+	}
+	"6"
+	{
+		"type"	"S"
+		"text"	"{TEAM}[{DEFAULT}锅服{TEAM}] {DEFAULT}打不过对面就是{TEAM}对面开了{DEFAULT}, 乱杀就是{TEAM}遇大爹了{DEFAULT}"
+	}
+	"7"
+	{
+		"type"	"S"
+		"text"	"{TEAM}[{DEFAULT}锅服{TEAM}] {DEFAULT}小输不算输, 小赢就是平"
+	}
+	"8"
+	{
+		"type"	"S"
+		"text"	"{TEAM}[{DEFAULT}锅服{TEAM}] {DEFAULT}不会{TEAM}黑枪{DEFAULT}你玩什么求生"
+	}
+	"9"
+	{
+		"type"	"S"
+		"text"	"{TEAM}[{DEFAULT}锅服{TEAM}] {DEFAULT}有时候不逼自己一把, 你都不知道自己有多{TEAM}下饭"
+	}
+}

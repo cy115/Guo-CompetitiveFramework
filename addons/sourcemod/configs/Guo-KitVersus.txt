@@ -1,0 +1,38 @@
+"Advertisements"
+{
+	"1"
+	{
+		"type"	"S"
+		"text"	"{TEAM}[{DEFAULT}锅服{TEAM}] {DEFAULT}可以输入{TEAM}!vote{DEFAULT}或者{TEAM}!votekick{DEFAULT}进行投票"
+	}
+	"2"
+	{
+		"type"	"S"
+		"text"	"{TEAM}[{DEFAULT}锅服{TEAM}] {DEFAULT}输入{TEAM}!match{DEFAULT}或者{TEAM}!rmatch{DEFAULT}进行更换模式"
+	}
+	"3"
+	{
+		"type"	"S"
+		"text"	"{TEAM}[{DEFAULT}锅服{TEAM}] {DEFAULT}包抗平衡性或许不是很好, 但是一定给了新手更多的容错"
+	}
+	"4"
+	{
+		"type"	"S"
+		"text"	"{TEAM}[{DEFAULT}锅服{TEAM}] {DEFAULT}求生四字真言: {TEAM}心平气和"
+	}
+	"5"
+	{
+		"type"	"S"
+		"text"	"{TEAM}[{DEFAULT}锅服{TEAM}] {DEFAULT}本模式含有以下元素: {TEAM}寻宝达人 孤军灭团 火烧连营 胆汁糊脸"
+	}
+	"6"
+	{
+		"type"	"S"
+		"text"	"{TEAM}[{DEFAULT}锅服{TEAM}] {DEFAULT}打不过对面就是{TEAM}对面开了{DEFAULT}, 乱杀就是{TEAM}遇大爹了{DEFAULT}"
+	}
+	"7"
+	{
+		"type"	"S"
+		"text"	"{TEAM}[{DEFAULT}锅服{TEAM}] {DEFAULT}小输不算输, 小赢就是平"
+	}
+}
