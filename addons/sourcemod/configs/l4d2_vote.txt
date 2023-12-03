@@ -612,9 +612,9 @@
 	}
 	"其他三方 (unofficial_others-o)"
 	{
-		"sm_map l4d2_bts01_forest"
+		"sm_map l4d_149_1"
 		{
-			"message" "Back to School-返校"
+			"message" "One 4 Nine-古墓亡影"
 		}
 		"sm_map bdp_bunker01"
 		{
