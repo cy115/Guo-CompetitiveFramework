@@ -491,6 +491,10 @@
 		{
 			"message" "Dead Echo 2-死亡回声"
 		}
+		"sm_map xmas_hotel"
+		{
+			"message" "Dead Center: Christmas-死亡中心: 圣诞"
+		}
 	}
 	"其他三方 (unofficial_others-e)"
 	{
@@ -649,9 +653,9 @@
 		{
 			"message" "RedemptionII-救赎2"
 		}
-		"sm_map bdp_bunker01"
+		"sm_map rh_map01"
 		{
-			"message" "burieddeep-深埋"
+			"message" "Run To The Hills-逃至山上"
 		}
 	}
 	"其他三方 (unofficial_others-s)"

@@ -218,4 +218,11 @@
 			"name" "1v1 Scavogl-Hunter"
 		}
 	}
+	"Deadman 配置"
+	{
+		"deadman"
+		{
+			"name" "九死一生"
+		}
+	}
 }
