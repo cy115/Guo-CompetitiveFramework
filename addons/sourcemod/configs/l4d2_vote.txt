@@ -6,10 +6,6 @@
 		{
 			"message" "回复满血 (votehp)"
 		}
-		"sm_fs"
-		{
-			"message" "强制开始游戏 (force_start)"
-		}
 		"sv_alltalk 1"
 		{
 			"message" "打开全体语音 (turn on)"
