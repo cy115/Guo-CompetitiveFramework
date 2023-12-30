@@ -3,13 +3,16 @@
 	"Tag"
 	{
 		"en"	"{red}[{default}!{red}]"
+		"chi"	"{red}[{default}!{red}]"
 	}
 	"Spawned"
 	{
 		"en"	"{olive}Tank {default}({red}Control: %s{default}) has spawned!"
+		"chi"	"{olive}Tank {default}({red}操控者: %s{default}) 已经生成!"
 	}
 	"Spawned2"
 	{
 		"en"	"{olive}Tank {default}({red}Control: %N{default}) has spawned!"
+		"chi"	"{olive}Tank {default}({red}操控者: %s{default}) 已经生成!"
 	}
 }

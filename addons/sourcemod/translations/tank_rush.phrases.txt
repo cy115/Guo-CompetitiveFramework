@@ -2,18 +2,22 @@
 {
 	"Tag"
 	{
-		"en"		"{red}[{default}NoTankRush{red}]"
+		"en"		"{red}[{default}锅服{red}]"
+		"chi"		"{red}[{default}锅服{red}]"
 	}
 	"freeze"
 	{
 		"en"		"{red}Tank {default}has spawned. {olive}Freezing {default}distance points!"
+		"chi"		"{red}Tank {default}已经生成. {olive}冻结 {default}路程分!"
 	}
 	"unfreeze"
 	{
 		"en"		"{red}Tank {default}is dead. {olive}Unfreezing {default}distance points!"
+		"chi"		"{red}Tank {default}已死亡. {olive}解锁 {default}路程分!"
 	}
 	"saferoom"
 	{
 		"en"		"{red}Survivors {default}made it to the saferoom. {olive}Unfreezing {default}distance points!"
+		"chi"		"{red}生还 {default}进入安全门 . {olive}解锁 {default}路程分!"
 	}
 }
