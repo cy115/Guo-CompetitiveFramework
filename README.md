@@ -24,7 +24,7 @@
 > * **Included Matchmodes:**
 > * **包含的配置：**
 
-* **Zonemod 2.8.7**
+* **Zonemod 2.8.9**
 * **Zonemod Hunters**
 * **Zonemod Retro**
 * **Zonemod 4K**
@@ -35,7 +35,7 @@
 * **Equilibrium 3.0c**
 * **Apex 1.1.2**
 * **WitchParty 1.0**
-* **Guomod 1.5**
+* **Guomod 1.6**
 * **scavogl 2.8.4**
 * **scavhunters 2.8.4**
 

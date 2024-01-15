@@ -16,7 +16,7 @@
 			"Instant spawns"
 			{
 				"min"		"0"
-				"max"		"20"
+				"max"		"25"
 			}
 			"Before elevator top, after elevator bottom"
 			{
@@ -1499,6 +1499,11 @@
 		"end_dist"			"142.267410"
 		"tank_ban_flow"
 		{
+			"Early Tank awkward spawn"
+			{
+				"min"       "0"
+				"max"       "44"
+			}
 			"Alarm car to one way drop"
 			{
 				"min"		"50"
@@ -1523,6 +1528,14 @@
 		"end_point"			"-2060.603027 6556.208496 -671.968750"
 		"end_dist"			"286.359802"
 		"max_distance"		"700"
+		"tank_ban_flow"
+		{
+			"Early Tank awkward spawn all the way up to vent spawn"
+			{
+				"min"       "24"
+				"max"       "45"
+			}
+		}
 	}
 	"l4d_dbd2dc_undead_center"
 	{
@@ -1716,18 +1729,13 @@
 		"start_extra_dist"	"1489.374390"
 		"end_point"			"-2698.415771 -4883.087402 96.336136"
 		"end_dist"			"321.482483"
-		"max_distance"		"500"
+		"max_distance"		"400"
 		"tank_ban_flow"
 		{
 			"1"
 			{
 				"min"		"0"
-				"max"		"35"
-			}
-			"2"
-			{
-				"min"		"63"
-				"max"		"75"
+				"max"		"25"
 			}
 		}
 	}
@@ -1740,13 +1748,6 @@
 		"end_dist"			"236.288925"
 		"max_distance"		"600"
 		"horde_limit"		"90"
-		{
-			"1"
-			{
-				"min"		"60"
-				"max"		"75"
-			}
-		}
 	}
 	"maria_cristina"
 	{
@@ -2534,6 +2535,65 @@
 			}
 		}
 	}
+	"noecho_m1"
+	{
+		"tank_ban_flow"
+		{
+			"early"
+			{
+				"min" "0"
+				"max" "33"
+			}
+			"late"
+			{
+				"min" "60"
+				"max" "100"
+			}
+		}
+	}
+	"noecho_m2"
+	{
+		"tank_ban_flow"
+		{
+			"early"
+			{
+				"min" "0"
+				"max" "33"
+			}
+		}
+		"ItemLimits"
+		{
+			"pain_pills" "3"
+		}
+	}
+	"noecho_m3"
+	{
+		"horde_limit" "80"
+		"tank_ban_flow"
+		{
+			"early"
+			{
+				"min" "0"
+				"max" "33"
+			}
+			"late"
+			{
+				"min" "70"
+				"max" "100"
+			}
+		}
+		"ItemLimits"
+		{
+			"pain_pills" "3"
+		}
+	}
+	"noecho_m4"
+	{
+		"ItemLimits"
+		{
+			"pain_pills" "5"
+		}
+	}
 	"pr1_waterfront_f"
 	{
 		"start_point"		"735.921692 730.683960 -437.968750"
@@ -2590,100 +2650,30 @@
 		"start_extra_dist"	"0.000000"
 		"end_dist"			"50.000000"
 	}
-	"noecho_m1"
+	"tripday_new_m2"
 	{
 		"tank_ban_flow"
 		{
-			"early"
+			"cornfield"
 			{
-				"min"		"0"
-				"max"		"33"
-			}
-			"late"
-			{
-				"min"		"60"
-				"max"		"99"
+				"min"		"45"
+				"max"		"64"
 			}
 		}
 	}
-	"noecho_m2"
+	"tripday_new_m3"
 	{
 		"tank_ban_flow"
 		{
-			"early"
+			"near_building"
 			{
-				"min"		"0"
-				"max"		"33"
+				"min"		"72"
+				"max"		"100"
 			}
 		}
 		"ItemLimits"
 		{
 			"pain_pills"	"3"
-		}
-	}
-	"noecho_m3"
-	{
-		"tank_ban_flow"
-		{
-			"early"
-			{
-				"min"		"0"
-				"max"		"38"
-			}
-			"late"
-			{
-				"min"		"66"
-				"max"		"99"
-			}
-		}
-		"ItemLimits"
-		{
-			"pain_pills"	"3"
-		}
-	}
-	"noecho_m4"
-	{
-		"tank_ban_flow"
-		{
-			"early"
-			{
-				"min"		"54"
-				"max"		"99"
-			}
-		}
-		"ItemLimits"
-		{
-			"pain_pills"	"5"
-		}
-	}
-	"fos1m3_factory"
-	{
-		"tank_ban_flow"
-		{
-			"late"
-			{
-				"min"		"44"
-				"max"		"66"
-			}
-		}
-		"ItemLimits"
-		{
-			"pain_pills"	"3"
-		}
-	}
-	"fos1m5_92farm"
-	{
-		"tank_ban_flow"
-		{
-			"late"
-			{
-				"min"		"68"
-				"max"		"99"
-			}
-		}
-		"ItemLimits"
-		{
-			"pain_pills"	"5"
 		}
 	}
 	"tripday_new_m4"
@@ -2692,13 +2682,13 @@
 		{
 			"early"
 			{
-				"min"		"0"
-				"max"		"32"
+				"min"        "0"
+				"max"        "32"
 			}
 		}
 		"ItemLimits"
 		{
-			"pain_pills"	"5"
+			"pain_pills"    "5"
 		}
 	}
 }
