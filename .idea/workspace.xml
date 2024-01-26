@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f4391ec2-1726-4573-830c-e324b2759ea3" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/addons/sourcemod/configs/matchmodes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/addons/sourcemod/configs/matchmodes.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/addons/sourcemod/plugins/optional/l4d2_Enhanced_Hunter.smx" beforeDir="false" afterPath="$PROJECT_DIR$/addons/sourcemod/plugins/optional/l4d2_Enhanced_Hunter.smx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/addons/sourcemod/plugins/optional/l4d2_Jockey_Size.smx" beforeDir="false" afterPath="$PROJECT_DIR$/addons/sourcemod/plugins/optional/l4d2_Jockey_Size.smx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/addons/sourcemod/plugins/optional/l4d2_skill_detect.smx" beforeDir="false" afterPath="$PROJECT_DIR$/addons/sourcemod/plugins/optional/l4d2_skill_detect.smx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/addons/sourcemod/plugins/optional/l4d2_stats.smx" beforeDir="false" afterPath="$PROJECT_DIR$/addons/sourcemod/plugins/optional/l4d2_stats.smx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cfg/generalfixes.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/cfg/generalfixes.cfg" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2bUHp6QlSp4IDwt2aphRHQqXE1m" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f4391ec2-1726-4573-830c-e324b2759ea3" name="Changes" comment="" />
+      <created>1706262919642</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706262919642</updated>
+    </task>
+    <servers />
+  </component>
+</project>
