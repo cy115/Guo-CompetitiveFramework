@@ -653,6 +653,10 @@
 		{
 			"message" "Run To The Hills-逃至山上"
 		}
+		"sm_map grmap1"
+		{
+			"message" "Roadkill-公路杀手"
+		}
 	}
 	"其他三方 (unofficial_others-s)"
 	{
