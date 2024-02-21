@@ -18,6 +18,10 @@
 		{
 			"name" "ZoneMod-Storm"
 		}
+		"zonemod-Random"
+		{
+			"name" "ZoneMod-Random"
+		}
 		"zm3v3"
 		{
 			"name" "3v3 ZoneMod"
