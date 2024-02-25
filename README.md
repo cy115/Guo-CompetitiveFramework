@@ -9,6 +9,7 @@
 
 > * There is Windows support in this repo, but not everything is, you are of course welcome to contribute to get Windows fully up to date!
 > * 目前此配置合集尚未完全适配Windows系统, 但是仅仅是目前, 欢迎你的贡献!
+
 * At present, because of the private plugins, there is no intention of open source.
 * 目前因为含有私人插件, 尚未有开源的意向.
 
@@ -35,18 +36,20 @@
 * **Equilibrium 3.0c**
 * **Apex 1.1.2**
 * **WitchParty 1.0**
-* **Guomod 1.6**
+* **Guomod 2.0**
 * **scavogl 2.8.4**
 * **scavhunters 2.8.4**
 
 ---
 
 > **Feature:**
-> **配置特色：**
+> **锅服药役配置特色：**
 
-* **除普通战役外均适配Mixmap插件**
+* **自改适配Mixmap插件**
 * **具有对抗特性的战役**
 * **较为细节的游戏体验**
+* **拥有ZoneMod特感轮换**
+* **拥有药役反引诱机制**
 
 ---
 	
