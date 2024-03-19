@@ -37,13 +37,21 @@
 	}
 	"锅-战役 配置"
 	{
-		"Guo-Default"
-		{
-			"name" "锅服普通战役"
-		}
 		"Guo-Advanced"
 		{
-			"name" "锅服Zone药役"
+			"name" "锅服Zone药役 4vAI"
+		}
+		"Guo-Tripled"
+		{
+			"name" "锅服Zone药役 3vAI"
+		}
+		"Guo-Doubled"
+		{
+			"name" "锅服Zone药役 2vAI"
+		}
+		"Guo-WitchParty"
+		{
+			"name" "锅服Zone药役 女巫派对"
 		}
 	}
 	"锅-训练 配置"
